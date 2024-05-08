@@ -61,12 +61,12 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
+<!-- ### 🔝 Top Contributed Repo -->
+<!-- <div align="center"> -->
   
-![](https://github-contributor-stats.vercel.app/api?username=ChandanKr&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=ChandanKr&limit=5&theme=dracula&combine_all_yearly_contributions=true) -->
 
-</div>
+<!-- </div> -->
 
 ---
 <div align="center">
